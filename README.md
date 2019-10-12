@@ -266,7 +266,7 @@ ctl.!default {
 
 Next, set the USB device to as the default device by editing `/usr/share/alsa/alsa.conf`
 ```
-sudo nano /usr/share/alsa/alsa.conf:
+sudo nano /usr/share/alsa/alsa.conf
 ```
 Change
 ```
